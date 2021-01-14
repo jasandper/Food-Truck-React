@@ -4,11 +4,12 @@ const db = require('../db');
 const Truck = require('../models/truck');
 const Sequelize = require('sequelize');
 const Op = Sequelize.Op;
+import Trucks from "../../src/components/Trucks";
 
 // Get truck list
 router.get('/', (req, res) => 
   Truck.findAll()
-    .then(trucks => res.render('trucks', {
+    .then(trucks => res.render(<Trucks />, {
             trucks
         }))
     .catch(err => res.render('error', {error,  err})));
