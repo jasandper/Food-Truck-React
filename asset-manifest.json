@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Food-Truck-React/static/css/main.72ed8bb1.chunk.css",
+    "main.js": "/Food-Truck-React/static/js/main.b28d6352.chunk.js",
+    "main.js.map": "/Food-Truck-React/static/js/main.b28d6352.chunk.js.map",
+    "runtime-main.js": "/Food-Truck-React/static/js/runtime-main.3a75818e.js",
+    "runtime-main.js.map": "/Food-Truck-React/static/js/runtime-main.3a75818e.js.map",
+    "static/js/2.2d4413a3.chunk.js": "/Food-Truck-React/static/js/2.2d4413a3.chunk.js",
+    "static/js/2.2d4413a3.chunk.js.map": "/Food-Truck-React/static/js/2.2d4413a3.chunk.js.map",
+    "index.html": "/Food-Truck-React/index.html",
+    "static/css/main.72ed8bb1.chunk.css.map": "/Food-Truck-React/static/css/main.72ed8bb1.chunk.css.map",
+    "static/js/2.2d4413a3.chunk.js.LICENSE.txt": "/Food-Truck-React/static/js/2.2d4413a3.chunk.js.LICENSE.txt",
+    "static/media/Searchbox.css": "/Food-Truck-React/static/media/foodtruck.d75f6761.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a75818e.js",
+    "static/js/2.2d4413a3.chunk.js",
+    "static/css/main.72ed8bb1.chunk.css",
+    "static/js/main.b28d6352.chunk.js"
+  ]
+}
